@@ -1,0 +1,40 @@
+Dependencies for Project 'SD_File', Target 'MCB2300': (DO NOT MODIFY !)
+F (.\SD_File.c)(0x5DC26543)(--thumb -c --cpu ARM7TDMI -g -O3 --apcs=interwork -I..\Library-I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-o .\obj\sd_file.o --omf_browse .\obj\sd_file.crf --depend .\obj\sd_file.d)
+I (C:\Keil4\ARM\RV31\INC\RTL.h)(0x532C1630)
+I (C:\Keil4\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (C:\Keil4\ARM\ARMCC\include\ctype.h)(0x51C7E87C)
+I (C:\Keil4\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (C:\Keil4\ARM\RV31\INC\File_Config.h)(0x532C1630)
+I (SD_File.h)(0x532C1530)
+I (LCD.h)(0x532C1530)
+I (C:\Keil4\ARM\Inc\Philips\LPC23xx.H)(0x532C1500)
+F (.\Getline.c)(0x532C1530)(--thumb -c --cpu ARM7TDMI -g -O3 --apcs=interwork -I..\Library-I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-o .\obj\getline.o --omf_browse .\obj\getline.crf --depend .\obj\getline.d)
+I (C:\Keil4\ARM\RV31\INC\RTL.h)(0x532C1630)
+I (C:\Keil4\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (SD_File.h)(0x532C1530)
+F (.\LPC2300.s)(0x532C1530)(--cpu ARM7TDMI -g --16 --apcs=interwork -I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips--list .\lst\lpc2300.lst --xref -o .\obj\lpc2300.o --depend .\obj\lpc2300.d)
+F (.\File_Config.c)(0x532C1530)(--thumb -c --cpu ARM7TDMI -g -O3 --apcs=interwork -I..\Library-I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-o .\obj\file_config.o --omf_browse .\obj\file_config.crf --depend .\obj\file_config.d)
+I (C:\Keil4\ARM\RV31\INC\File_Config.h)(0x532C1630)
+I (C:\Keil4\ARM\RV31\INC\RTL.h)(0x532C1630)
+I (C:\Keil4\ARM\RV31\INC\File_lib.c)(0x532C1630)
+I (C:\Keil4\ARM\ARMCC\include\absacc.h)(0x51C7E87C)
+F (.\MCI_LPC23xx.c)(0x532C1530)(--thumb -c --cpu ARM7TDMI -g -O3 --apcs=interwork -I..\Library-I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-o .\obj\mci_lpc23xx.o --omf_browse .\obj\mci_lpc23xx.crf --depend .\obj\mci_lpc23xx.d)
+I (C:\Keil4\ARM\RV31\INC\File_Config.h)(0x532C1630)
+I (C:\Keil4\ARM\RV31\INC\RTL.h)(0x532C1630)
+I (C:\Keil4\ARM\Inc\Philips\LPC23xx.h)(0x532C1500)
+I (MCI_LPC23xx.h)(0x532C1530)
+F (.\Serial.c)(0x532C1530)(--thumb -c --cpu ARM7TDMI -g -O3 --apcs=interwork -I..\Library-I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-o .\obj\serial.o --omf_browse .\obj\serial.crf --depend .\obj\serial.d)
+I (C:\Keil4\ARM\Inc\Philips\LPC23xx.H)(0x532C1500)
+F (.\Retarget.c)(0x532C1530)(--thumb -c --cpu ARM7TDMI -g -O3 --apcs=interwork -I..\Library-I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-DSTDIO-o .\obj\retarget.o --omf_browse .\obj\retarget.crf --depend .\obj\retarget.d)
+I (C:\Keil4\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (C:\Keil4\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (C:\Keil4\ARM\ARMCC\include\rt_sys.h)(0x51C7E87C)
+I (C:\Keil4\ARM\RV31\INC\File_Config.h)(0x532C1630)
+I (C:\Keil4\ARM\RV31\INC\RTL.h)(0x532C1630)
+F (.\RTA_Config.c)(0x532C1530)()
+F (.\LCD.c)(0x532C1530)(--thumb -c --cpu ARM7TDMI -g -O3 --apcs=interwork -I..\Library-I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-o .\obj\lcd.o --omf_browse .\obj\lcd.crf --depend .\obj\lcd.d)
+I (C:\Keil4\ARM\RV31\INC\RTL.h)(0x532C1630)
+I (C:\Keil4\ARM\Inc\Philips\LPC23xx.H)(0x532C1500)
+I (LCD.h)(0x532C1530)
+F (C:\Keil4\ARM\Boards\Keil\MCB2300\RL\FlashFS\SD_File\FS_ARM_L.lib)(0x532C15CA)()
+F (.\Abstract.txt)(0x532C1530)()

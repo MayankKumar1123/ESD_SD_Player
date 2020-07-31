@@ -1,0 +1,19 @@
+This is an RL Flash File System file manipulation example.
+You can create, read, copy, delete files from the SD/MMC 
+Flash Memory Card and format the card. 
+
+The SD_FILE program is a standalone application loaded into
+on-chip flash and available for two targets:
+
+MCB2300:   Standalone application for Keil MCB2300 Board using
+           COM1 port as a communication interface..
+
+           Connect a serial cable to RS232 COM1 port using
+           HyperTerminal at 115200 baud, 8-bits, no parity,
+           1 stop bit, XON/XOFF.
+
+MCB2300 RT_Agent:
+           Standalone application for Keil MCB2300 Board using
+           RT Agent as a communication interface. You can test
+           it only with ULINK2 from uVision debugger.
+

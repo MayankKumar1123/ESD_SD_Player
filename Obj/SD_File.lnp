@@ -1,0 +1,14 @@
+--cpu ARM7TDMI
+".\obj\sd_file.o"
+".\obj\getline.o"
+".\obj\lpc2300.o"
+".\obj\file_config.o"
+".\obj\mci_lpc23xx.o"
+".\obj\serial.o"
+".\obj\retarget.o"
+".\obj\lcd.o"
+"C:\Keil4\ARM\Boards\Keil\MCB2300\RL\FlashFS\SD_File\FS_ARM_L.lib"
+--strict --scatter ".\Obj\SD_File.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lst\SD_File.map" -o .\Obj\SD_File.axf
